@@ -1,0 +1,10 @@
+[
+{"team_n":"MI","won":"9","loss":"5","match":"14","points":"18","nt_rate":"+1.107"},
+{"team_n":"DC","won":"8","loss":"6","match":"14","points":"16","nt_rate":"-0.109"},
+{"team_n":"SRH","won":"7","loss":"7","match":"14","points":"14","nt_rate":"+0.608"},
+{"team_n":"RCB","won":"7","loss":"7","match":"14","points":"14","nt_rate":"-0.172"},
+{"team_n":"KKR","won":"7","loss":"7","match":"14","points":"14","nt_rate":"-0.214"},
+{"team_n":"KXIP","won":"6","loss":"8","match":"14","points":"12","nt_rate":"-0.162"},
+{"team_n":"CSK","won":"6","loss":"8","match":"14","points":"12","nt_rate":"-0.455"},
+{"team_n":"RR","won":"6","loss":"8","match":"14","points":"12","nt_rate":"-0.569"}
+]
