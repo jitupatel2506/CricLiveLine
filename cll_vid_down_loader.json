@@ -1,0 +1,15 @@
+{
+    "fb_banner" : "",
+    "fb_interstitial" : "",
+    "fb_native" : "",
+    "admob_pub_id": "",
+    "admob_app_id": "",
+    "admob_banner" : "",
+    "admob_interstitial" : "",
+    "admob_native" : "",
+    "admob_open" : "",
+    "ad_type" : "2",
+    "admob_native_ad_count" : 5,
+    "new_pkg" : "com.videodly.tubemusic",
+    "is_version" : "false"
+  }
