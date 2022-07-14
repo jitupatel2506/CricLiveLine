@@ -9,6 +9,7 @@
     "admob_native" : "",
     "admob_open" : "",
     "ad_type" : "2",
+    "load_more":false,
     "admob_native_ad_count" : 5,
     "new_pkg" : "com.videodly.tubemusic",
     "is_version" : "false"
