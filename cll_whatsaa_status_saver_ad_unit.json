@@ -10,8 +10,8 @@
     "admob_native": "",
     "admob_open":"",
 
-    "pause_all": true,
-    "load_more":true,
+    "pause_all": false,
+    "load_more":false,
     "ad_type": "0",
     "new_pkg": "com.cll.videostatussaver",
     "is_version": "false"
