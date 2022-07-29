@@ -5,10 +5,10 @@
 
     "admob_pub_id": "",
     "admob_app_id": "",
-    "admob_banner": "",
-    "admob_interstitial": "",
-    "admob_native": "",
-    "admob_open":"",
+    "admob_banner": "/21753324030,22764336884/com.rtovehicleinformation.rto.vehicle.information.vehicleinfo.rtochallan_Banner",
+    "admob_interstitial": "/21753324030,22764336884/com.rtovehicleinformation.rto.vehicle.information.vehicleinfo.rtochallan_Interstitial",
+    "admob_native": "/21753324030,22764336884/com.rtovehicleinformation.rto.vehicle.information.vehicleinfo.rtochallan_Native",
+    "admob_open":"/21753324030,22764336884/com.rtovehicleinformation.rto.vehicle.information.vehicleinfo.rtochallan_AppOpen",
 
     "pause_all": true,
     "ad_type": "0",
