@@ -10,7 +10,7 @@
     "admob_native": "/21753324030,22764336884/com.rtovehicleinformation.rto.vehicle.information.vehicleinfo.rtochallan_Native",
     "admob_open":"/21753324030,22764336884/com.rtovehicleinformation.rto.vehicle.information.vehicleinfo.rtochallan_AppOpen",
 
-    "pause_all": true,
+    "pause_all": false,
     "ad_type": "1",
     "new_pkg": "com.cll.videostatussaver",
     "is_version": "false"
