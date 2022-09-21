@@ -4,11 +4,11 @@
     "fb_native": "851772609120588_851773195787196",
 
     "admob_pub_id": "pub-8532501034568787",
-    "admob_app_id": "ca-app-pub-8532501034568787~4650073052",
-    "admob_banner": "/150790500,22792603201/25596_APP_BANNER_320x50",
-    "admob_interstitial": "/150790500,22792603201/25596_APP_INTER",
-    "admob_native": "/150790500,22792603201/25596_APP_NATIVE",
-    "admob_open":"/150790500,22792603201/25596_APP_OPEN",
+    "admob_app_id": "ca-app-pub-8295793237549637~4628952403",
+    "admob_banner": "ca-app-pub-8295793237549637/3565220547",
+    "admob_interstitial": "ca-app-pub-8295793237549637/1131478957",
+    "admob_native": "ca-app-pub-8295793237549637/6923943251",
+    "admob_open":"ca-app-pub-8295793237549637/8045453239",
 
     "pause_all": false,
     "ad_type": "1",
