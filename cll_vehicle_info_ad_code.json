@@ -5,10 +5,10 @@
 
     "admob_pub_id": "pub-8295793237549637",
     "admob_app_id": "ca-app-pub-8295793237549637~4628952403",
-    "admob_banner": "ca-app-pub-8295793237549637/3565220547",
+    "admob_banner": "/150790500,22792603201/25596_APP_BANNER_320x50",
     "admob_interstitial": "/150790500,22792603201/25596_APP_INTER",
     "admob_native": "/150790500,22792603201/25596_APP_NATIVE",
-    "admob_open":"ca-app-pub-8295793237549637/8045453239",
+    "admob_open":"/150790500,22792603201/25596_APP_OPEN",
 
     "pause_all": false,
     "ad_type": "1",
