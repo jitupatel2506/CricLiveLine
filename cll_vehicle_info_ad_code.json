@@ -6,12 +6,12 @@
     "admob_pub_id": "pub-8295793237549637",
     "admob_app_id": "ca-app-pub-8295793237549637~4628952403",
     "admob_banner": "ca-app-pub-8532501034568787/4629606348",
-    "admob_interstitial": "/150790500,22792603201/25596_APP_INTER",
-    "admob_native": "/21753324030,22764336884/com.rtovehicleinformation.rto.vehicle.information.vehicleinfo.rtochallan_Native",
-    "admob_open":"/150790500,22792603201/25596_APP_OPEN",
+    "admob_interstitial": "ca-app-pub-8295793237549637/1131478957",
+    "admob_native": "ca-app-pub-8295793237549637/6923943251",
+    "admob_open":"ca-app-pub-8295793237549637/8045453239",
 
     "pause_all": false,
-    "ad_type": "0",
+    "ad_type": "1",
     "new_pkg": "com.cll.videostatussaver",
     "is_version": "false"
 }
