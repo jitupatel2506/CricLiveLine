@@ -1,0 +1,44 @@
+{
+  "error": false,
+  "isNewApp":false,
+  "app_pkg": "com.appzombies.english.gujarati.translator",
+  "fbBannr": "YOUR_PLACEMENT_ID",
+  "fbInter": "YOUR_PLACEMENT_ID",
+  "fbNative": "YOUR_PLACEMENT_ID",
+  "fbNativeBnnr": "YOUR_PLACEMENT_ID",
+  
+  "AdxBannr": "/6499/example/banner",
+  "AdxInter": "/6499/example/interstitial",
+  "AdxbInterSplash":"",
+  "AdxNative": "/6499/example/native",
+  "AdxOpenAds": "/6499/example/app-open",
+  
+  "AdmobBannr": "ca-app-pub-3940256099942544/6300978111",
+  "AdmobInter": "ca-app-pub-3940256099942544/1033173712",
+  "AdmobInterSplash":"",
+  "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
+  "AdmobOpenAds": "ca-app-pub-3940256099942544/3419835294",
+  
+  "admob_pub_id": "pub-3940256099942544",
+  "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+  "adType": "custom",
+  "adStatus": "admob",
+  "loadMore":false,
+  "Advertise_List": [
+    {
+     
+	    "ad_id": 0,
+	    "app_name": "Video Downloader",
+	    "app_packageName": "com.mksurat.videodownloader",
+	    "app_logo": "https://play-lh.googleusercontent.com/89vR-kbI9MWRg1vMZCRbcK8IR2pbNlq1eKQkRWDIpQWpl0zoSWBPR90ZR01hrtIlmTc=w240-h480",
+	    "app_banner": "https://play-lh.googleusercontent.com/o5KTa_0SoUnSW8nDLwm2rBqsM7pDGgV3a67XhET1dH5E2Un_t_wcMrfaSlLkT1eNhZeN=w416-h235",
+        "app_shortDecription": "Tube video downloader helps you to download any social video from social sites",
+		"app_rating": "4",
+		"app_download": "10000",
+		"app_AdFormat": "Banner",
+		"app_buttonName": "Install"
+	  
+    }
+  ],
+  "adMobTime":20
+}
